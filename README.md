@@ -1,13 +1,14 @@
-# Monte Carlo Portfolio Optimization using Streamlit
+# Monte Carlo Portfolio Optimisation using Streamlit
 
-This project is a Streamlit application for portfolio optimization using Monte Carlo simulations. The app allows users to upload stock data, download data from Yahoo Finance, preprocess the data, and run Monte Carlo simulations to optimize a financial portfolio based on expected returns, volatility, and the Sharpe ratio.
+This project is a Streamlit application for portfolio optimisation using Monte Carlo simulations. The app allows users to upload stock data, download data from Yahoo Finance, preprocess the data, and run Monte Carlo simulations to optimise a financial portfolio based on expected returns, volatility, and the Sharpe ratio.
 
 **If you want to use the app directly, visit the deployed link:**
 [Monte Carlo Portfolio Optimizer App](https://raphi6-monte-carlo-portfolio-optimiser-app-dxctih.streamlit.app/)
 
 ## Purpose
-This app was created to help get familiar with using Streamlit and to try out portfolio optimization using Monte Carlo simulations. Future extensions can include:
-- Implementing the Kelly Criterion, or Half Kelly (see inspiration from Robert Carver's amazing lectures https://gist.github.com/robcarver17/8227c5c88ad17acd6a84b9762ea79d67).
+This app was created to help get familiar with using Streamlit and to try out portfolio optimisation using Monte Carlo simulations. Future extensions can include:
+- Implementing the Kelly Criterion, or Half Kelly (see inspiration from Robert Carver's amazing lectures https://drive.google.com/file/d/1xolY94pfnLf6j0KRbZVM7P_i65XA-a9V/view?
+usp=sharing).
 - Enhancing interactivity to visualize the best portfolios and their weights.
 - Incorporating other portfolio metrics and optimisation techniques.
 
